@@ -1,0 +1,460 @@
+{
+  "companies":[
+    {
+      "id": 1,
+      "name": "شركة الأهرام للتنظيم والإنتاج الفني",
+      "desc": "تعتبر شركة الأهرام للتنظيم والإنتاج الفني واحدة من أبرز الشركات في مجال تنظيم الحفلات والمؤتمرات. تقدم الشركة خدمات شاملة للعملاء، بدءًا من التخطيط والتصميم وصولاً إلى التنفيذ وإدارة الأحداث. تتميز بالابتكار والاحترافية في تقديم تجارب فريدة وناجحة لعملائها.",
+      "rate": 4.8,
+      "location": "القاهرة، مصر",
+      "packages": [
+        {
+          "id": 1,
+          "avalible": 200,
+          "location": "القاهرة، مصر",
+          "features": [
+            "تصميم ديكور مبتكر",
+            "صوت وإضاءة احترافية"
+          ]
+        },
+        {
+          "id": 2,
+          "avalible": 150,
+          "location": "الإسكندرية، مصر",
+          "features": [
+            "تنظيم حفلات زفاف",
+            "تأمين فرق فنية محترفة"
+          ]
+        },
+        {
+          "id": 3,
+          "avalible": 100,
+          "location": "شرم الشيخ، مصر",
+          "features": [
+            "تنظيم فعاليات سياحية",
+            "إدارة البرامج الترفيهية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "شركة البيان للتنظيم والتسويق",
+      "desc": "شركة البيان للتنظيم والتسويق هي شركة متخصصة في تنظيم الفعاليات والمؤتمرات في منطقة الشرق الأوسط. تعمل الشركة على تقديم حلول فعالة وإبداعية لعملائها من خلال تنظيم أحداث مخصصة وإدارة الأعمال. تتميز بخبرتها الواسعة وفريق عمل محترف لتلبية احتياجات العملاء بدقة وجودة عالية.",
+      "rate": 4.2,
+      "location": "دبي، الإمارات العربية المتحدة",
+      "packages": [
+        {
+          "id": 1,
+          "avalible": 100,
+          "location": "دبي، الإمارات العربية المتحدة",
+          "features": [
+            "تنظيم معارض تجارية",
+            "تصميم وتنفيذ فعاليات ترفيهية"
+          ]
+        },
+        {
+          "id": 2,
+          "avalible": 80,
+          "location": "أبوظبي، الإمارات العربية المتحدة",
+          "features": [
+            "تنظيم فعاليات رياضية",
+            "تقديم خدمات تسويقية متكاملة"
+          ]
+        },
+        {
+          "id": 3,
+          "avalible": 120,
+          "location": "الرياض، المملكة العربية السعودية",
+          "features": [
+            "تنظيم حفلات المناسبات الخاصة",
+            "تأمين خدمات تقنية متقدمة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "EventPro Egypt",
+      "desc": "Leading event management company in Egypt, specializing in corporate events and conferences.",
+      "rate": 4.8,
+      "location": "Cairo, Egypt",
+      "packages": [
+        {
+          "id": 1,
+          "avalible": 150,
+          "location": "Cairo",
+          "features": [
+            "Professional event planning",
+            "Customized themes",
+            "Audiovisual production"
+          ]
+        },
+        {
+          "id": 2,
+          "avalible": 100,
+          "location": "Alexandria",
+          "features": [
+            "Venue selection",
+            "Catering services",
+            "On-site coordination"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Dubai Event Masters",
+      "desc": "Premier event organizers in the UAE, specializing in luxury weddings and VIP events.",
+      "rate": 4.9,
+      "location": "Dubai, UAE",
+      "packages": [
+        {
+          "id": 1,
+          "avalible": 50,
+          "location": "Dubai",
+          "features": [
+            "Exclusive venue options",
+            "VIP concierge services",
+            "International entertainment"
+          ]
+        },
+        {
+          "id": 2,
+          "avalible": 75,
+          "location": "Abu Dhabi",
+          "features": [
+            "Customized event branding",
+            "High-end catering",
+            "Themed decor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Nile Events Group",
+      "desc": "Full-service event management company based in Cairo, Egypt, offering end-to-end solutions for both corporate and social events.",
+      "rate": 4.7,
+      "location": "Cairo, Egypt",
+      "packages": [
+        {
+          "id": 3,
+          "avalible": 120,
+          "location": "Cairo",
+          "features": [
+            "Themed decorations",
+            "Entertainment booking",
+            "Event marketing"
+          ]
+        },
+        {
+          "id": 4,
+          "avalible": 80,
+          "location": "Luxor",
+          "features": [
+            "Destination event planning",
+            "Cultural experiences",
+            "Local artist collaborations"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Arabian Nights Productions",
+      "desc": "Specializing in immersive and themed events, this company brings fairy tales to life for clients across the Arab world.",
+      "rate": 4.5,
+      "location": "Riyadh, Saudi Arabia",
+      "packages": [
+        {
+          "id": 5,
+          "avalible": 60,
+          "location": "Riyadh",
+          "features": [
+            "Fantasy-themed decor",
+            "Interactive storytelling",
+            "Fireworks displays"
+          ]
+        },
+        {
+          "id": 6,
+          "avalible": 100,
+          "location": "Jeddah",
+          "features": [
+            "Arabian Nights experience",
+            "Bespoke entertainment",
+            "Event coordination"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Cairo Conferences Co.",
+      "desc": "A leading player in the conference organization sector, providing comprehensive solutions for business events and seminars.",
+      "rate": 4.9,
+      "location": "Cairo, Egypt",
+      "packages": [
+        {
+          "id": 7,
+          "avalible": 150,
+          "location": "Cairo",
+          "features": [
+            "Conference venue booking",
+            "Technical support",
+            "Delegate registration"
+          ]
+        },
+        {
+          "id": 8,
+          "avalible": 90,
+          "location": "Sharm El Sheikh",
+          "features": [
+            "Destination conferences",
+            "Networking sessions",
+            "Customized branding"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Beirut Events Unlimited",
+      "desc": "A dynamic event management company based in Beirut, Lebanon, specializing in creating memorable experiences for a diverse range of events.",
+      "rate": 4.6,
+      "location": "Beirut, Lebanon",
+      "packages": [
+        {
+          "id": 9,
+          "avalible": 80,
+          "location": "Beirut",
+          "features": [
+            "Cultural fusion events",
+            "Live music performances",
+            "Outdoor venue options"
+          ]
+        },
+        {
+          "id": 10,
+          "avalible": 110,
+          "location": "Byblos",
+          "features": [
+            "Historical site events",
+            "Themed gala dinners",
+            "Local artisan showcases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Amman Elite Events",
+      "desc": "Leading event planning agency in Amman, Jordan, offering top-tier services for corporate events, weddings, and social gatherings.",
+      "rate": 4.8,
+      "location": "Amman, Jordan",
+      "packages": [
+        {
+          "id": 11,
+          "avalible": 100,
+          "location": "Amman",
+          "features": [
+            "Luxury wedding planning",
+            "VIP guest services",
+            "High-end catering"
+          ]
+        },
+        {
+          "id": 12,
+          "avalible": 70,
+          "location": "Petra",
+          "features": [
+            "Destination weddings",
+            "Cultural excursions",
+            "Exclusive venue selections"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Doha Celebrations Co.",
+      "desc": "A premier event planning company based in Doha, Qatar, specializing in luxurious weddings, gala dinners, and high-profile corporate events.",
+      "rate": 4.9,
+      "location": "Doha, Qatar",
+      "packages": [
+        {
+          "id": 13,
+          "avalible": 120,
+          "location": "Doha",
+          "features": [
+            "Grand wedding setups",
+            "Celebrity performances",
+            "VIP event management"
+          ]
+        },
+        {
+          "id": 14,
+          "avalible": 90,
+          "location": "The Pearl-Qatar",
+          "features": [
+            "Exclusive island events",
+            "Yacht parties",
+            "Themed galas"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Tunisian MICE Solutions",
+      "desc": "Specializing in Meetings, Incentives, Conferences, and Exhibitions (MICE), this company provides comprehensive event solutions in Tunis, Tunisia.",
+      "rate": 4.7,
+      "location": "Tunis, Tunisia",
+      "packages": [
+        {
+          "id": 15,
+          "avalible": 80,
+          "location": "Tunis",
+          "features": [
+            "Conference planning",
+            "Incentive travel programs",
+            "Exhibition management"
+          ]
+        },
+        {
+          "id": 16,
+          "avalible": 110,
+          "location": "Carthage",
+          "features": [
+            "Historical site conferences",
+            "Cultural team-building",
+            "Business seminars"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Casablanca Events Hub",
+      "desc": "Casablanca-based event management hub specializing in creative event concepts, catering to a diverse range of occasions and gatherings.",
+      "rate": 4.6,
+      "location": "Casablanca, Morocco",
+      "packages": [
+        {
+          "id": 17,
+          "avalible": 100,
+          "location": "Casablanca",
+          "features": [
+            "Themed corporate events",
+            "Culinary experiences",
+            "Interactive team-building"
+          ]
+        },
+        {
+          "id": 18,
+          "avalible": 70,
+          "location": "Marrakech",
+          "features": [
+            "Luxury destination weddings",
+            "Artisanal markets",
+            "Customized event branding"
+          ]
+        }
+      ]
+    }
+  ],
+
+
+  "trendinPackages": [
+    {
+      "id": 1,
+      "avalible": 200,
+      "location": "Cairo",
+      "company_id": 3,
+      "company_name": "EventPro Egypt",
+      "features": ["Professional event planning", "Customized themes", "Audiovisual production"],
+      "image": "assets/images/packge.png"
+    },
+    {
+      "id": 2,
+      "avalible": 100,
+      "location": "Alexandria",
+      "company_id": 3,
+      "company_name": "EventPro Egypt",
+      "features": ["Venue selection", "Catering services", "On-site coordination"],
+      "image": "assets/images/packge.png"
+    },
+    {
+      "id": 3,
+      "avalible": 120,
+      "location": "Cairo",
+      "company_id": 4,
+      "company_name": "Dubai Event Masters",
+      "features": ["Themed decorations", "Entertainment booking", "Event marketing"],
+      "image": "assets/images/packge.png"
+    },
+    {
+      "id": 4,
+      "avalible": 80,
+      "location": "Luxor",
+      "company_id": 4,
+      "company_name": "Dubai Event Masters",
+      "features": ["Destination event planning", "Cultural experiences", "Local artist collaborations"],
+      "image": "assets/images/packge.png"
+    },
+    {
+      "id": 5,
+      "avalible": 50,
+      "location": "Dubai",
+      "company_id": 5,
+      "company_name": "Live Nation Entertainment",
+      "features": ["Exclusive venue options", "VIP concierge services", "International entertainment"],
+      "image": "assets/images/packge.png"
+    },
+    {
+      "id": 6,
+      "avalible": 75,
+      "location": "Abu Dhabi",
+      "company_id": 3,
+      "company_name": "Live Nation Entertainment",
+      "features": ["Customized event branding", "High-end catering", "Themed decor"],
+      "image": "assets/images/packge.png"
+    },
+    {
+      "id": 7,
+      "avalible": 150,
+      "location": "Cairo",
+      "company_id": 4,
+      "company_name": "GES",
+      "features": ["Conference venue booking", "Technical support", "Delegate registration"],
+      "image": "assets/images/packge.png"
+    },
+    {
+      "id": 8,
+      "avalible": 90,
+      "location": "Sharm El Sheikh",
+      "company_id": 4,
+      "company_name": "GES",
+      "features": ["Destination conferences", "Networking sessions", "Customized branding"],
+      "image": "assets/images/packge.png"
+    },
+    {
+      "id": 9,
+      "avalible": 80,
+      "location": "Beirut",
+      "company_id": 5,
+      "company_name": "Nile Events Group",
+      "features": ["Cultural fusion events", "Live music performances", "Outdoor venue options"],
+      "image": "assets/images/packge.png"
+    },
+    {
+      "id": 10,
+      "avalible": 110,
+      "location": "Byblos",
+      "company_id": 5,
+      "company_name": "Nile Events Group",
+      "features": ["Historical site events", "Themed gala dinners", "Local artisan showcases"],
+      "image": "assets/images/packge.png"
+    }
+  ]
+}
